@@ -472,6 +472,10 @@ h6 {
     transition: background .3s ease-out;
     background: rgb(35, 48, 63);
 }
+.site__back a:active {
+    
+    background: rgb(27, 40, 53);
+}
 
 .site__back a span {
     position: relative;
